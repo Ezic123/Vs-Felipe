@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fellipe.png"><SubTexture name="fellipe idle0000" x="0" y="691" width="382" height="672" frameX="-514" frameY="-9" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fellipe idle0001" x="1252" y="1363" width="444" height="651" frameX="-501" frameY="-34" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fellipe idle0002" x="2430" y="0" width="453" height="644" frameX="-498" frameY="-41" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fellipe idle0003" x="764" y="691" width="388" height="669" frameX="-510" frameY="-13" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fellipe idle0004" x="382" y="691" width="382" height="671" frameX="-514" frameY="-10" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fellipe idle0005" x="0" y="691" width="382" height="672" frameX="-514" frameY="-9" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fellipe idle0006" x="0" y="691" width="382" height="672" frameX="-514" frameY="-9" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fellipe idle0007" x="0" y="691" width="382" height="672" frameX="-514" frameY="-9" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fellipe up0000" x="0" y="0" width="532" height="691" frameX="-391" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fellipe up0001" x="532" y="0" width="542" height="682" frameX="-395" frameY="-9" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fellipe up0002" x="1074" y="0" width="545" height="678" frameX="-396" frameY="-13" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fellipe up0003" x="1074" y="0" width="545" height="678" frameX="-396" frameY="-13" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fellipe right0000" x="2024" y="0" width="406" height="648" frameX="-506" frameY="-42" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fellipe right0001" x="2430" y="644" width="395" height="636" frameX="-491" frameY="-54" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fellipe right0002" x="2430" y="1280" width="393" height="636" frameX="-481" frameY="-54" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fellipe right0003" x="2430" y="1280" width="393" height="636" frameX="-481" frameY="-54" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fellipe left0000" x="818" y="1363" width="434" height="654" frameX="-473" frameY="-33" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fellipe left0001" x="0" y="1363" width="409" height="661" frameX="-503" frameY="-26" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fellipe left0002" x="1619" y="0" width="405" height="663" frameX="-508" frameY="-24" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fellipe left0003" x="1619" y="0" width="405" height="663" frameX="-508" frameY="-24" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fellipe down0000" x="0" y="2024" width="420" height="613" frameX="-492" frameY="-93" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fellipe down0001" x="409" y="1363" width="409" height="660" frameX="-507" frameY="-45" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fellipe down0002" x="1152" y="691" width="402" height="664" frameX="-513" frameY="-40" frameWidth="1280" frameHeight="720" />
+<SubTexture name="fellipe down0003" x="1152" y="691" width="402" height="664" frameX="-513" frameY="-40" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

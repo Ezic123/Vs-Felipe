@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-7
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "fellipe idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "fellipe left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "fellipe down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "fellipe up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "fellipe right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fellipe",
+	"position": [
+		-500,
+		40
+	],
+	"healthicon": "fellipe",
+	"flip_x": false,
+	"healthbar_colors": [
+		140,
+		15,
+		52
+	],
+	"camera_position": [
+		-20,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}
